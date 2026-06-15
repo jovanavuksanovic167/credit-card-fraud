@@ -12,24 +12,24 @@ Projekat se sastoji iz tri glavna dela:
 
 ## Sadržaj
 
-1. Opis problema
-2. Cilj projekta
-3. Korišćene tehnologije
-4. Struktura projekta
-5. Dataset
-6. Preprocesiranje podataka
-7. Arhitektura neuronske mreže
-8. Trening modela
-9. Evaluacija modela
-10. Arhitektura sistema
-11. AI servis
-12. Backend aplikacija
-13. Frontend aplikacija
-14. Baza podataka
-15. Pokretanje projekta
-16. Primer korišćenja aplikacije
-17. Zaključak
-18. Licenca
+1. [Opis problema](#1-opis-problema)
+2. [Cilj projekta](#2-cilj-projekta)
+3. [Korišćene tehnologije](#3-korišćene-tehnologije)
+4. [Struktura projekta](#4-struktura-projekta)
+5. [Dataset](#5-dataset)
+6. [Preprocesiranje podataka](#6-preprocesiranje-podataka)
+7. [Arhitektura neuronske mreže](#7-arhitektura-neuronske-mreže)
+8. [Trening modela](#8-trening-modela)
+9. [Evaluacija modela](#9-evaluacija-modela)
+10. [Arhitektura sistema](#10-arhitektura-sistema)
+11. [AI servis](#11-ai-servis)
+12. [Backend aplikacija](#12-backend-aplikacija)
+13. [Frontend aplikacija](#13-frontend-aplikacija)
+14. [Baza podataka](#14-baza-podataka)
+15. [Pokretanje projekta](#15-pokretanje-projekta)
+16. [Primer korišćenja aplikacije](#16-primer-korišćenja-aplikacije)
+17. [Zaključak](#17-zaključak)
+18. [Licenca](#18-licenca)
 
 ## 1. Opis problema
 
