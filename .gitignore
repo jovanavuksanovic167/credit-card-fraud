@@ -27,3 +27,7 @@ fraud-detection-backend/target/
 
 # Environment files
 .env
+
+# Frontend
+fraud-detection-frontend/node_modules/
+fraud-detection-frontend/dist/
